@@ -8,6 +8,7 @@ In this project you will build such a pipeline.
 
 # Link to the public github project and wandb location
 https://wandb.ai/abhra-debroy/nyc_airbnb?workspace=user-abhra-debroy
+
 https://github.com/Abhra-Debroy/nd0821-c2-build-model-workflow-starter
 
 
